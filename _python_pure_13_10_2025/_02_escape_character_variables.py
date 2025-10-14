@@ -10,8 +10,6 @@ print("Adım: %s Soyadım: %s" %(name,surname)) #okunabilirlik +
 print(f"Adım: {name} Soyadım: {surname}")
 #f --> formatter
 
-
-
 ######################################################################
 ############ EscapeCharacter #########################################
 
