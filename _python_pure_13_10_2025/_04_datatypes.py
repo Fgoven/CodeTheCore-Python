@@ -19,6 +19,6 @@ surname = "Göven"
 
 print(f"Adım: {name} Soyadım: {surname}")
 
-## boolean True/False ###
+## boolean True/False ##
 is_login = True
 print(f"Login mi? {is_login} ==> Türü: {type(is_login)}")
