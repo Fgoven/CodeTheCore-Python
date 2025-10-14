@@ -1,5 +1,5 @@
 
-#int, str, float, bool, list, tuple, set, dict
+#int, str, float, bool, list, tuple, set, dict, NoneType
 
 # Type Hint:
 

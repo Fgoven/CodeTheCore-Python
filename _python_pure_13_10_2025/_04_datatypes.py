@@ -7,7 +7,9 @@
 number1 = 10
 number2 = -20
 PI= 3.14159
+number4 = None
 print(f"number1: {number1} number2:{number2} PI:{PI}")
+print(f"Boş değer: {number4} type:{type(number4)}")
 
 ## types ##
 
