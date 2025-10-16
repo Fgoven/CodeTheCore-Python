@@ -1,0 +1,2 @@
+# veri türü zorunluluğu
+beartype >= 0.22.2
